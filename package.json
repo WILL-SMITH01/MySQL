@@ -1,0 +1,20 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "Aplicação de banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
